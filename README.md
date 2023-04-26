@@ -6,7 +6,7 @@
 
 - 🔭 Currently working on **FINSTOP - A Mock Stock Trading Platform.**
 
-- 🌱 Currently learning **Web Development.**
+- 🌱 Learning **Frontend and Backend Web Development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
