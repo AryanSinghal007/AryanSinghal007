@@ -1,3 +1,6 @@
+<!-- <center>
+  <img src = "https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=2000" width="300" height="300"/>
+</center> -->
 <h1 align="center">Hi, I'm Aryan Singhal</h1>
 <h3 align="center">A dedicated software engineer from India, fueled by a deep passion for coding and development</h3>
 <hr> 
