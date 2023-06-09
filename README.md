@@ -7,7 +7,7 @@
 
 - 🎓 Student at **Netaji Subhas University of Technology, DELHI** pursuing B.Tech - ECE with AI ML.
 
-- 🔭 Currently working on projects focused on **Blockchain technology**, specifically related to the Internet Computer Protocol (ICP).
+- 🔭 Currently working on projects focused on **Blockchain technology**, specifically related to the Internet Computer (ICP).
 
 - 🌱 Learning **Frontend and Backend Web Development.**
 
