@@ -7,9 +7,7 @@
 
 - 🎓 Student at **Netaji Subhas University of Technology, DELHI** pursuing B.Tech - ECE with AI ML.
 
-- 🔭 Currently working on projects related to **MERN Stack** and **Blockchain Development**.
-
-- 🌱 Learning **Frontend and Backend Web Development.**
+- 🔭 Currently working on projects related to **Web Development** and **Machine Learning**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
