@@ -6,8 +6,8 @@
 <h3 align="center">An upcoming Software Engineer at Uniqlo, Tokyo 🗼</h3>
 
 <p>🎓 Student at <strong>Netaji Subhas University of Technology, DELHI</strong> pursuing B.Tech - ECE with AI ML.</p>
-<p>🔭 Working on projects related to <strong>Java</strong> and <strong>SQL query optimization</strong>.</p>
-<p>🌱 Currently working on projects related to <strong>Web Development</strong> and <strong>Machine Learning</strong>.</p>
+<p>🔭 Working on projects related to <strong>Web Development</strong> and <strong>Machine Learning</strong>.</p>
+<p>🌱 Currently learning <strong>System Design</strong>, <strong>Java</strong>, and <strong>SQL Query Optimization</strong> .</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
